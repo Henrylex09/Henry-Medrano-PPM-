@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1718677829 source:c:\users\user\desktop\git\prueba\ejercap07\ejer21\main.c
+	<stdio.h>
+	<string.h>
+
