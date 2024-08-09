@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1721693179 source:c:\users\user\desktop\picgar\pong\main.c
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+
+1721693179 source:c:\users\user\desktop\git\prueba\tarea9\pong\main.c
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+

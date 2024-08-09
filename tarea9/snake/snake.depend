@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1721700100 source:c:\users\user\desktop\picgar\snake\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1722869809 source:c:\users\user\desktop\git\prueba\tarea9\snake\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
